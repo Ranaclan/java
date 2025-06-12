@@ -1,4 +1,4 @@
-package com.sparta.ca;
+package com.sparta.clf;
 
 public class Main
 {
